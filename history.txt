@@ -1,0 +1,60 @@
+   96  grep PHP  wilders.csv > PHP.csv| grep france PHP.csv > France.csv | grep 2019 France.csv>2019.csv
+   97  grep PHP  wilders.csv > PHP.csv| grep france PHP.csv > France.csv | grep 2019 France.csv>2019b.csv
+   98  cat 2019b
+   99  cat 2019b.csv
+  100  ls
+  101  cat 2019.csv
+  102  cat PHP.csv
+  103  cat grep France 
+  104  cat PHP.csv
+  105  cat < grep France PHP.csv
+  106  grep France PHP.csv < cat
+  107  cat PHP;csv
+  108  cat PHP.csv
+  109  grep France PHP.csv> cat
+  110  grep 2019 > cat
+  111  grep 2019 wc 1.csv
+  112  grep France PHP.csv > France.csv
+  113  grep 2019 France.csv > 2010.csv
+  114  grep 2019 France.csv > 2019.csv
+  115  wc -l 2019.csv | php_france_2019.csv
+  116  wc -l 2019.csv > php_france_2019.csv
+  117  cat php_france_2019.csv 
+  118  cat 2019.csv
+  119  cat wilders;csv
+  120  cat wilders.csv
+  121  grep JavaScript wilders.csv > javascritp.csv
+  122  grep Toulouse javascritp.csv > Toul.csv
+  123  grep Biarritz javascritp.csv > Bia.csv
+  124  grep Toulouse javascritp.csv > A.csv
+  125  grep Biarritz javascritp.csv >> A.csv
+  126  Cat A.csv
+  127  cat A.csv
+  128  mv A.csv javascript_biarritz_toulouse.csv
+  129  cat javascript_biarritz_toulouse.csv 
+  130  history
+  131  cat history.text
+  132  history > history.txt
+  133  tail -n 100 history.txt  
+  134  cat -h
+  135  cat --help
+  136  history
+  137  tail -n 100 
+  138  history
+  139  tail -n 100 
+  140  history
+  141  cat history -- help
+  142  history --help
+  143  history 100 
+  144  history 100 > history.txt
+  145  ls
+  146  cat history.txt 
+  147  history 77 > history.txt
+  148  cat history.txt 
+  149  history 50> history.txt
+  150  cat history.txt 
+  151  history
+  152  cat history
+  153  istory
+  154  history
+  155  history 60 > history.txt
