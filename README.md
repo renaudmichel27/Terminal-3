@@ -1,2 +1,2 @@
 # Terminal-3
-this repost are three files for the third wuest of TSSR 2025
+this repost are three files for the third quest of TSSR 2025
